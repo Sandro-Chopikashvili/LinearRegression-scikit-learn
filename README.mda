@@ -1,1 +1,47 @@
-sdasd
+# 📊 Linear Regression on Students' Social Media Addiction
+
+This project explores the relationship between students' social media usage and various behavioral and academic outcomes using linear regression. The analysis is performed in a Jupyter Notebook with Python and key libraries like pandas, matplotlib, seaborn, and scikit-learn.
+
+## 📁 Project Structure
+
+- `linearregression.ipynb`: The main notebook containing all data analysis, visualization, and model training steps.
+- `Students Social Media Addiction.csv`: The dataset used for the analysis, containing survey responses from students about their social media usage and related variables.
+
+## 📌 Objectives
+
+- Load and explore the dataset  
+- Visualize correlations and trends between social media usage and factors like sleep, academic performance, etc.  
+- Build a linear regression model to analyze predictive relationships  
+- Evaluate the model's accuracy and interpret the results
+
+## 📊 Technologies Used
+
+- Python 3  
+- Jupyter Notebook  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn
+
+## 🧠 Key Features
+
+- Data Cleaning and Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Linear Regression Model Fitting  
+- Visualization of regression lines and residuals  
+- Model evaluation using R² score and error metrics
+
+
+## 📈 Example Output
+
+- Regression plots showing the influence of social media usage on sleep or grades  
+- R² and MSE scores to assess model performance
+
+## 📂 Dataset Info
+
+The dataset includes features such as:
+- Hours spent on social media  
+- Academic performance indicators  
+- Sleep patterns  
+- Behavioral impacts
+
